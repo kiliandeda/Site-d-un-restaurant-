@@ -1,3 +1,4 @@
+
 // detecter lorsqu'on scroll
 window.onscroll = function() { sticky() };
 
